@@ -5,3 +5,5 @@ arquivio para o primeiroo curso git.
 02 planos
 
 
+03 linha conflito
+
