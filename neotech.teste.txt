@@ -1,15 +1,6 @@
 arquivio para o primeiroo curso git.
 
 01 atualizado 
-
-
 02 planos
-
-
 03 linha conflito
-
-
-0
-
-
 04 - linha brasil 
